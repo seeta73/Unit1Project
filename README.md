@@ -1,8 +1,8 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Westlake's Monthly Events
 
-Submitted by: **Your Name Here**
+Submitted by: Seeta Genova
 
-This web app: **insert description**
+This web app: Westlake's Monthly Events 
 
 Time spent: **X** hours spent in total
 
@@ -49,7 +49,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [Seeta Genova]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
