@@ -4,7 +4,7 @@ Submitted by: Seeta Genova
 
 This web app: Westlake's Residences Events 
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Unit1ProjectGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with ...  
