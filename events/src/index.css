@@ -99,6 +99,7 @@ td {
   width: 500px;
   height: 100px;
   word-wrap: break-word;
+  min-width: 300px;
 }
 
 .Event h6,

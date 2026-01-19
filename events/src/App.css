@@ -16,3 +16,9 @@ body {
   min-width: 320px;
   min-height: 100vh;
 }
+
+.Calendar {
+  width: 100%;
+  overflow-x: auto;
+  display: block;
+}
