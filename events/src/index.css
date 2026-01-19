@@ -78,6 +78,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-color: blue;
 }
 
 th {
@@ -118,6 +119,11 @@ h5 {
   background: rgb(202, 245, 222);
 }
 
-.Calendar {
-  background-color: purple;
+.details {
+  background-color: yellow;
+  color: black;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
 }
