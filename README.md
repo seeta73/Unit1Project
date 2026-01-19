@@ -1,6 +1,6 @@
 # Web Development Project 1 - Westlake's Residences Events
 
-Submitted by: Seeta Genova
+Submitted by: Seeta Genova 
 
 This web app: Westlake's Residences Events 
 
